@@ -47,7 +47,7 @@ cyber-password-strength-analyzer
 ### 1️⃣ Clone the repository
 
 ```
-git clone https://github.com/hardik9981/cyber-password-strength-analyzer.git
+git clone https://github.com/rivalic/cyber-password-strength-analyzer.git
 ```
 
 ---
